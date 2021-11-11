@@ -3,7 +3,7 @@
 
 
 В Lab_N5:
-sudo cp ~/.Xauthority ~root/ для адекватного запуска графических окон X11 из под sudo
+Выполнить sudo cp ~/.Xauthority ~root/ для адекватного запуска графических окон X11 из под sudo
 для запуска miniedit использовать:
 sudo python2 /home/mininet/mininet/examples/miniedit.py
 Если использовать просто python, то при сохранении топологии или скрипта будет выдаваться ошибка, а сам файл окажется пустым из-за особенностей Python3
