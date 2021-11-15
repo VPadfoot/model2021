@@ -7,3 +7,8 @@
 для запуска miniedit использовать:
 sudo python2 /home/mininet/mininet/examples/miniedit.py
 Если использовать просто python, то при сохранении топологии или скрипта будет выдаваться ошибка, а сам файл окажется пустым из-за особенностей Python3
+
+
+Lab_N6:
+https://hackmd.io/@pmanzoni/SyWm3n0HH
+Только часть 1!
