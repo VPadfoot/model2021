@@ -47,7 +47,7 @@
 
 1. Create a “New Blank Project” and call it `lab01_your_name_group` (like a `lab01StepanovIKT41`).
 2. Drag two “VPCS” (Virtual PCs) onto the blank network diagram from the panel at left (found under the “Browse End Devices” button) .
-3. Drag a “Mikrotik” router onto the network diagram from the panel at left (found under the “Browse Routers” button)  ![](./imgs/1.png)
+3. Drag a “Mikrotik” router onto the network diagram from the panel at left (found under the “Browse Routers” button)  <img src="imgs/1.png"  width="10" height="10"/>
 4. Using the “Add a link” button ![](./imgs/2.png)  on the left panel, wire up the network using virtual Ethernet cables! Make your network look like the network below.
 	
 	* Note: The PCs only have 1 interface, so you can’t connect the wire to the wrong port there
