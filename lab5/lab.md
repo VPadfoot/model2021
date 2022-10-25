@@ -54,7 +54,7 @@
 	* Note: The Router has 4 interfaces. The ports you plug your network wires into must be consistent with the way you configure your router in software. For now, just carefully match the diagram. In future labs, when you’re more comfortable, you can make port decisions on your own.
 	* Note: Wondering why your diagram doesn’t show port labels? Press the “Show/Hide Interface Labels” button <img src="imgs/3.png"  width="30" height="30"/>.
 
-<img src="imgs/4.png"  width="30" height="30"/>
+![](./imgs/4.png "Lab 1 Network Diagram (Note: Subnet labels and dashed borders are for informational use only)")
 5. Press the Start button <img src="imgs/5.png"  width="30" height="30"/> to launch your two virtual PCs and router. All the links should turn from RED to GREEN.
 6. Press the WebConsole Connect <img src="imgs/6.png"  width="30" height="30"/> to pull up a terminal to device. (You could right-click on each and choose Console as well, but we need to configure all three).
 7. IMPORTANT: In case of using WEB-mode of GNS3, you will connect to each device manually by click “Web-console” button, or use telnet to connect via remote port mapping, shown on the right side of window, like a 192.168.0.55:5001 (the best practice to use Freeware Putty client)
