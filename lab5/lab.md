@@ -47,16 +47,16 @@
 
 1. Create a “New Blank Project” and call it `lab01_your_name_group` (like a `lab01StepanovIKT41`).
 2. Drag two “VPCS” (Virtual PCs) onto the blank network diagram from the panel at left (found under the “Browse End Devices” button) .
-3. Drag a “Mikrotik” router onto the network diagram from the panel at left (found under the “Browse Routers” button)  <img src="imgs/1.png"  width="10" height="10"/>
-4. Using the “Add a link” button ![](./imgs/2.png)  on the left panel, wire up the network using virtual Ethernet cables! Make your network look like the network below.
+3. Drag a “Mikrotik” router onto the network diagram from the panel at left (found under the “Browse Routers” button)  <img src="imgs/1.png"  width="30" height="30"/>
+4. Using the “Add a link” button <img src="imgs/2.png"  width="30" height="30"/>  on the left panel, wire up the network using virtual Ethernet cables! Make your network look like the network below.
 	
 	* Note: The PCs only have 1 interface, so you can’t connect the wire to the wrong port there
 	* Note: The Router has 4 interfaces. The ports you plug your network wires into must be consistent with the way you configure your router in software. For now, just carefully match the diagram. In future labs, when you’re more comfortable, you can make port decisions on your own.
-	* Note: Wondering why your diagram doesn’t show port labels? Press the “Show/Hide Interface Labels” button ![](./imgs/3.png).
+	* Note: Wondering why your diagram doesn’t show port labels? Press the “Show/Hide Interface Labels” button <img src="imgs/3.png"  width="30" height="30"/>.
 
-![](./imgs/4.png)
-5. Press the Start button ![](./imgs/5.png) to launch your two virtual PCs and router. All the links should turn from RED to GREEN.
-6. Press the WebConsole Connect ![](./imgs/6.png) to pull up a terminal to device. (You could right-click on each and choose Console as well, but we need to configure all three).
+<img src="imgs/4.png"  width="30" height="30"/>
+5. Press the Start button <img src="imgs/5.png"  width="30" height="30"/> to launch your two virtual PCs and router. All the links should turn from RED to GREEN.
+6. Press the WebConsole Connect <img src="imgs/6.png"  width="30" height="30"/> to pull up a terminal to device. (You could right-click on each and choose Console as well, but we need to configure all three).
 7. IMPORTANT: In case of using WEB-mode of GNS3, you will connect to each device manually by click “Web-console” button, or use telnet to connect via remote port mapping, shown on the right side of window, like a 192.168.0.55:5001 (the best practice to use Freeware Putty client)
 
 **At the MikroTIk console:**
@@ -101,5 +101,5 @@
 
 **Upload your screenshot to the Lab 1 \*doc file & put it to ORIOKS homework subsystem.**
 
-When finished, press the Stop button ![](./imgs/7.png)  and exit GNS3. The GNS3 VM (in VMware) should halt and exit automatically.
+When finished, press the Stop button <img src="imgs/7.png"  width="30" height="30"/>  and exit GNS3. The GNS3 VM (in VMware) should halt and exit automatically.
 
